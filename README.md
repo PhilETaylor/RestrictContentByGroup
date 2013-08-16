@@ -20,7 +20,9 @@ LIMITATIONS:
 ============
 
  1) Only allows for one secured block of text per article.
+ 
  2) Only allows a single group name to be controlled per block
+ 
  3) Group name MUST match all case sensitive name
  
  
